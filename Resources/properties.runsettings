@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	
+	<RunConfiguration>
+		<ResultsDirectory>..\..\TestResults</ResultsDirectory>
+		<TreatNoTestsAsError>true</TreatNoTestsAsError>
+	</RunConfiguration>
+	
+	<TestRunParameters>
+		<Parameter name="webAppUrl" value="https://popons.amcom.com.br/pop/#39472" />
+		<Parameter name="webAppBrowser" value="Chrome" />
+		<Parameter name="user" value="amcom\popons" />
+		<Parameter name="password" value="14N@Ng80qlZqlnvLlrQ" />
+	</TestRunParameters>
+
+
+</RunSettings>
