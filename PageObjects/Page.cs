@@ -59,4 +59,8 @@ public class Page
     {
         webElement.Click();
     }
+    protected IWebElement GetDisplayedElement(IWebDriver webDriver, By xpath)
+    {
+        return FindElements(webDriver, xpath).First(x => x.Displayed);
+    }
 }

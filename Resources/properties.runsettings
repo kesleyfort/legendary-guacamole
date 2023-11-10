@@ -7,10 +7,8 @@
 	</RunConfiguration>
 	
 	<TestRunParameters>
-		<Parameter name="webAppUrl" value="https://popons.amcom.com.br/pop/#39472" />
+		<Parameter name="webAppUrl" value="https://blogdoagi.com.br/" />
 		<Parameter name="webAppBrowser" value="Chrome" />
-		<Parameter name="user" value="amcom\popons" />
-		<Parameter name="password" value="14N@Ng80qlZqlnvLlrQ" />
 	</TestRunParameters>
 
 
