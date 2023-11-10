@@ -69,7 +69,7 @@ public class BlogPage : Page
         if (_tag != null)
         {
             var displayedTag = GetDisplayedElement(_webDriver, _searchTag);
-            Assert.IsTrue(_tag.Equals(displayedTag.Text), "A tag pesquisada não está diferente da tag esperada");
+            Assert.IsTrue(_tag.Equals(displayedTag.Text), "A tag pesquisada está diferente da tag esperada");
         }
         
     }
